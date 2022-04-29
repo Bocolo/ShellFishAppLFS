@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825864634603",
+    "firebase_url": "https://unityshell-ff6f7-default-rtdb.firebaseio.com",
+    "project_id": "unityshell-ff6f7",
+    "storage_bucket": "unityshell-ff6f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825864634603:android:8b02f3a06a39ff5a617eae",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ShellFishDish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825864634603-b4t1qoogdn8nr45b1doqimbu3lcdh7nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYznHBbKvD8t7lOu6WjmQRDUKpXCdNU3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825864634603-b4t1qoogdn8nr45b1doqimbu3lcdh7nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
